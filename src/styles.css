@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* body {
+  padding-top: 20px;
+} */
+.navbar {
+  margin-bottom: 30px;
+}
+.clickable {
+  cursor: pointer;
+}
+.fa {
+  cursor: pointer;
+}
